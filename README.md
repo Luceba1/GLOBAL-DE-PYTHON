@@ -31,7 +31,9 @@ Este comando descargará una copia completa del repositorio en tu máquina local
 
 - Una vez clonado, navega al directorio del proyecto con:
 
+```bash
 cd tu-repositorio
+```
 
  ### **Descargar el Repositorio Manualmente**:
 Si no tienes Git instalado, también puedes descargar el repositorio como un archivo comprimido (ZIP) y extraerlo en tu máquina.
