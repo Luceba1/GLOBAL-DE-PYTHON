@@ -74,9 +74,11 @@ Este proyecto permite la simulación de la **detección de mutaciones** en una m
 
 1. **Ingreso de la matriz de ADN**:
    Ingrese una matriz de ADN (6 filas de 6 bases nitrogenadas, separadas por una coma y un espacio):
-Ejemplo: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
+   
+Ejemplo: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
+Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
 
-2. **Opciones disponibles**:
+3. **Opciones disponibles**:
 Opciones:
 1. Detectar mutaciones
 2. Crear mutantes
@@ -108,9 +110,3 @@ MATRIZ SANADA: AGATCA GATTCA CAACAT GAGCTA ATTGCG CTGTTC
 - La matriz debe ser de exactamente **6x6** y contener únicamente las bases nitrogenadas válidas: **A, T, C, G**.
 
 ---
-
-## :memo: Licencia
-
-Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el archivo `LICENSE`.
-
-
