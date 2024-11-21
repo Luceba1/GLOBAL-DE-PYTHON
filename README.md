@@ -23,26 +23,26 @@ git clone https://github.com/tu-usuario/tu-repositorio.git
 ```
 Este comando descargará una copia completa del repositorio en tu máquina local. Asegúrate de reemplazar tu-usuario y tu-repositorio con tu nombre de usuario de GitHub y el nombre de tu repositorio.
 
-a. Abre tu terminal (en Windows, puedes usar Git Bash o CMD).
+- Abre tu terminal (en Windows, puedes usar Git Bash o CMD).
 
-b. Navega al directorio donde deseas clonar el repositorio.
+- Navega al directorio donde deseas clonar el repositorio.
 
-c. Ejecuta el comando de clonación.
+- Ejecuta el comando de clonación.
 
-d. Una vez clonado, navega al directorio del proyecto con:
+- Una vez clonado, navega al directorio del proyecto con:
 
 cd tu-repositorio
-
-e. Asegúrate de tener Python 3.x instalado en tu máquina y luego ejecuta el archivo ejecutable.py.
 
  ### **Descargar el Repositorio Manualmente**:
 Si no tienes Git instalado, también puedes descargar el repositorio como un archivo comprimido (ZIP) y extraerlo en tu máquina.
 
-a. Ve a la página de tu repositorio en GitHub.
-b. Haz clic en el botón verde que dice "Code".
-c. En el menú desplegable, haz clic en "Download ZIP".
-c. Extrae el archivo comprimido en el directorio de tu elección.
-d. Asegúrate de tener Python 3.x instalado en tu máquina y luego ejecuta el archivo ejecutable.py.
+- Ve a la página de tu repositorio en GitHub.
+
+- Haz clic en el botón verde que dice "Code".
+
+- En el menú desplegable, haz clic en "Download ZIP".
+- Extrae el archivo comprimido en el directorio de tu elección.
+- Asegúrate de tener Python 3.x instalado en tu máquina y luego ejecuta el archivo ejecutable.py.
 
 2. Asegúrate de tener **Python 3.x** instalado en tu máquina.
 3. Ejecuta el archivo `ejecutable.py` para iniciar el programa.
