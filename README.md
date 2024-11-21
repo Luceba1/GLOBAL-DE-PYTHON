@@ -73,10 +73,7 @@ Este proyecto permite la simulación de la **detección de mutaciones** en una m
 ## :camera: Ejemplo de Ejecución
 
 1. **Ingreso de la matriz de ADN**:
-   ```bash
-   Ingrese una matriz de ADN (6 filas de 6 bases nitrogenadas, separadas por una coma y un espacio):
-   Ejemplo: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
-   Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
+[Captura de pantalla 2024-11-21 185013](https://github.com/user-attachments/assets/a4b562ae-fd67-4af8-bee7-cc9a93f91e5d)
 
 Opciones:
 1. Detectar mutaciones
