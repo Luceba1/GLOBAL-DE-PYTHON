@@ -193,6 +193,7 @@ Este proyecto permite la simulación de la **detección de mutaciones** en una m
    Ejemplo: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
    Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
 Opciones disponibles:
+![Captura de pantalla 2024-11-21 185013](https://github.com/user-attachments/assets/3a16aae5-ac20-4fdf-a836-a969936b1856)
 
 Opciones:
 1. Detectar mutaciones
