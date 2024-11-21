@@ -122,22 +122,27 @@ Este proyecto simula la **detección de mutaciones** en una matriz de ADN y la c
 Ingrese una matriz de ADN (6 filas de 6 bases nitrogenadas, separadas por una coma y un espacio):
 Ejemplo: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
 Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
+```
 
 ### 2. **Opciones disponibles**:
 Opciones:
+```bash
 1. Detectar mutaciones
 2. Crear mutantes
 3. Sanar ADN
 4. Ingresar una nueva matriz
 5. Salir
 Seleccione una opción: 1
+```
 
 ### 3. **Detección de mutaciones**:
+```bash
 Resultado booleano: True
 Mutaciones detectadas en las siguientes posiciones:
 - Fila: 0, Columna: 2, Tipo: Horizontal
-
+```
 ### 4. **Creación de mutantes**:
+```bash
 Base nitrogenada (A/T/C/G): A
 Fila inicial (0-5): 2
 Columna inicial (0-5): 3
@@ -149,8 +154,10 @@ CAACAA
 GAGCTA
 ATTGCG
 CTGTTC
+```
 
 ### 5. Sanar ADN:
+```bash
 MATRIZ SANADA:
 AGATCA
 GATTCA
@@ -158,4 +165,4 @@ CAACAT
 GAGCTA
 ATTGCG
 CTGTTC
-
+```
