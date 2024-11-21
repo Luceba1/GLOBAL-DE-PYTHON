@@ -197,8 +197,6 @@ Este proyecto permite la simulación de la **detección de mutaciones** en una m
    Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
 Opciones disponibles:
 
-bash
-Copiar código
 Opciones:
 1. Detectar mutaciones
 2. Crear mutantes
@@ -208,15 +206,11 @@ Opciones:
 Seleccione una opción: 1
 Detección de mutaciones:
 
-bash
-Copiar código
 Resultado booleano: True
 Mutaciones detectadas en las siguientes posiciones:
 - Fila: 0, Columna: 2, Tipo: Horizontal
 Creación de mutantes:
 
-bash
-Copiar código
 Base nitrogenada (A/T/C/G): A
 Fila inicial (0-5): 2
 Columna inicial (0-5): 3
@@ -228,10 +222,8 @@ CAACAA
 GAGCTA
 ATTGCG
 CTGTTC
-Sanar ADN:
 
-bash
-Copiar código
+Sanar ADN:
 MATRIZ SANADA:
 AGATCA
 GATTCA
