@@ -166,3 +166,13 @@ GAGCTA
 ATTGCG
 CTGTTC
 ```
+
+---
+
+## :warning: Consideraciones
+
+- El programa asegura que las mutaciones se realicen dentro de los límites de la matriz, y si se intenta realizar una mutación fuera de esos límites, se muestra un mensaje de error y se solicita un nuevo intento.
+- La matriz debe ser de exactamente **6x6** y contener únicamente las bases nitrogenadas válidas: **A, T, C, G**.
+
+---
+
