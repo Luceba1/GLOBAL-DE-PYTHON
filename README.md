@@ -1,4 +1,4 @@
-# :dna: **Proyecto de Detección y Mutación de ADN** :dna:
+# :dna: **PROYECTO DE DETECCIÓN Y MUTACIÓN DE ADN** :dna:
 
 Este proyecto simula la **detección de mutaciones** en una matriz de ADN y la creación de **mutantes** a través de mutaciones específicas. El programa permite mutar el ADN con **radiación** (horizontal/vertical) o **virus** (diagonal) y también incluye una funcionalidad para **sanar el ADN**, generando una nueva matriz sin mutaciones.
 
