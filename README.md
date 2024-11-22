@@ -183,27 +183,29 @@ Mutaciones detectadas en las siguientes posiciones:
 ### 4. **Creación de mutantes**:
 ```bash
 Base nitrogenada (A/T/C/G): A
-Fila inicial (0-5): 2
-Columna inicial (0-5): 3
+Fila inicial (0-5): 1
+Columna inicial (0-5): 1
 Tipo de mutación (H para Horizontal, V para Vertical, D para Diagonal): H
 MATRIZ MUTADA:
-AGATCA
-GATTCA
-CAACAA
-GAGCTA
-ATTGCG
-CTGTTC
+    0  1  2  3  4  5
+0 | A  G  A  T  C  A
+1 | G  A  A  A  A  A
+2 | C  A  A  C  A  A
+3 | G  A  G  C  T  A
+4 | A  T  T  G  C  G
+5 | C  T  G  T  T  C
 ```
 
 ### 5. Sanar ADN:
 ```bash
 MATRIZ SANADA:
-AGATCA
-GATTCA
-CAACAT
-GAGCTA
-ATTGCG
-CTGTTC
+    0  1  2  3  4  5
+0 | A  G  A  T  C  A
+1 | G  A  T  T  C  A
+2 | C  A  A  C  A  T
+3 | G  A  G  C  T  A
+4 | A  T  T  G  C  G
+5 | C  T  G  T  T  C
 ```
 
 ---
