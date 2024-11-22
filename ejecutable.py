@@ -61,7 +61,7 @@ def validar_base_nitrogenada() -> str:
         base = input("Base nitrogenada (A/T/C/G): ").strip().upper()
         if base and base in "ATCG":
             return base
-        elif not base:  # Si el campo está vacío, pide reintentar
+        elif not base:
             print("Error: El campo está vacío. Debe ingresar una base nitrogenada (A, T, C o G).")
         else:
             print("Error: Base inválida. Solo se permiten A, T, C y G. Intente nuevamente.")
@@ -75,7 +75,7 @@ def validar_tipo_mutacion() -> str:
         tipo = input("Tipo de mutación (H para Horizontal, V para Vertical, D para Diagonal): ").strip().upper()
         if tipo and tipo in "HVD":
             return tipo
-        elif not tipo:  # Si el campo está vacío, pide reintentar
+        elif not tipo:
             print("Error: El campo está vacío. Debe ingresar un tipo de mutación (H, V o D).")
         else:
             print("Error: Tipo inválido. Solo se permiten H, V o D. Intente nuevamente.")
@@ -141,11 +141,16 @@ def main() -> None:
 
         elif opcion == "3":
             sanador = Sanador(matriz)
-            matriz = sanador.sanar_mutantes(matriz)
-            print("\nMATRIZ SANADA:")
+            matriz_sanada, cambios_realizados = sanador.sanar_mutantes(matriz)
+            if cambios_realizados:
+                print("\nLa matriz ha sido sanada correctamente.")
+            else:
+                print("\nLa matriz ya estaba sana. No se realizaron cambios.")
+            matriz = matriz_sanada
 
         elif opcion == "4":
             matriz = ingresar_matriz()
+            print("\nNueva matriz ingresada:")
             mostrar_matriz(matriz)
 
         elif opcion == "5":
@@ -155,7 +160,8 @@ def main() -> None:
         else:
             print("Opción inválida. Intente nuevamente.")
 
-        mostrar_matriz(matriz)
+        if opcion != "4":  # Evitar duplicar la matriz tras ingreso
+            mostrar_matriz(matriz)
 
 
 if __name__ == "__main__":
