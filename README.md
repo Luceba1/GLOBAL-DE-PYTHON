@@ -171,6 +171,7 @@ MATRIZ DE ADN:
 3 | G  A  G  C  T  A
 4 | A  T  T  G  C  G
 5 | C  T  G  T  T  C
+==============================
 ```
 
 ### 2. **Opciones disponibles**:
@@ -207,6 +208,7 @@ MATRIZ DE ADN:
 3 | G  A  G  C  T  A
 4 | A  T  T  G  C  G
 5 | C  T  G  T  T  C
+==============================
 ```
 
 ### 5. Sanar ADN:
@@ -222,6 +224,7 @@ MATRIZ DE ADN:
 3 | G  A  G  C  T  A
 4 | A  T  T  G  C  G
 5 | C  T  G  T  T  C
+==============================
 ```
 
 ---
