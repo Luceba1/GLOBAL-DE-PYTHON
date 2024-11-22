@@ -161,6 +161,9 @@ Si no tienes Git instalado, también puedes descargar el repositorio como un arc
 Ingrese una matriz de ADN (6 filas de 6 bases nitrogenadas, separadas por una coma y un espacio):
 Ejemplo: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
 Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
+==============================
+MATRIZ DE ADN:
+==============================
     0  1  2  3  4  5
 0 | A  G  A  T  C  A
 1 | G  A  T  T  C  A
@@ -194,6 +197,9 @@ Fila inicial (0-5): 1
 Columna inicial (0-5): 1
 Tipo de mutación (H para Horizontal, V para Vertical, D para Diagonal): H
 MATRIZ MUTADA:
+==============================
+MATRIZ DE ADN:
+==============================
     0  1  2  3  4  5
 0 | A  G  A  T  C  A
 1 | G  A  A  A  A  A
@@ -206,6 +212,9 @@ MATRIZ MUTADA:
 ### 5. Sanar ADN:
 ```bash
 MATRIZ SANADA:
+==============================
+MATRIZ DE ADN:
+==============================
     0  1  2  3  4  5
 0 | A  G  A  T  C  A
 1 | G  A  T  T  C  A
