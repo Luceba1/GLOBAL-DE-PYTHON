@@ -37,10 +37,7 @@ Este comando descargará una copia completa del repositorio en tu máquina local
 
 - Ejecuta el comando de clonación.
 
-- Una vez clonado, navega al directorio del proyecto con:
-
-```bash
-cd tu-repositorio
+- Una vez clonado, navega al directorio donde hayas guardado el proyecto en tu máquina local.
 ```
 
  ### **Descargar el Repositorio Manualmente**:
