@@ -67,7 +67,7 @@ Si no tienes Git instalado, también puedes descargar el repositorio como un arc
    - Sanar ADN
    - Ingresar una nueva matriz
    - Salir
-   A continuación se explica qué hace cada opción:
+- A continuación se explica qué hace cada opción:
 
 ---
 
