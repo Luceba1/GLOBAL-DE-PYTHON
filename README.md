@@ -191,7 +191,7 @@ Opciones:
 5. Salir
 Seleccione una opción: 
 ```
-- Seleccionar la opción que queramos utilizando los números: 1, 2, 3, 4 o 5.
+- Seleccionar la opción que queramos utilizando el número: 1, 2, 3, 4 o 5.
 
 ### 3. **Detección de mutaciones**:
 ```bash
