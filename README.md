@@ -62,6 +62,7 @@ Si no tienes Git instalado, también puedes descargar el repositorio como un arc
 
 1. Al ejecutar el programa, se te pedirá ingresar una **matriz de ADN de 6x6** utilizando las bases nitrogenadas válidas: **A, T, C, G**.
 2. Una vez que la matriz esté ingresada, el programa te mostrará las siguientes opciones:
+   
    - Detectar mutaciones
    - Crear mutantes
    - Sanar ADN
