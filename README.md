@@ -22,6 +22,7 @@ Este proyecto simula la **detección de mutaciones** en una matriz de ADN y la c
 ## :clipboard: **Instalación**
 
 1. **Clona** este repositorio o **descarga los archivos** del proyecto.
+---
    ### **Clonar el Repositorio**:
 
 Si tienes **Git** instalado en tu máquina, puedes clonar el repositorio utilizando el siguiente comando:
@@ -48,6 +49,7 @@ Si no tienes Git instalado, también puedes descargar el repositorio como un arc
 
 - En el menú desplegable, haz clic en "Download ZIP".
 - Extrae el archivo comprimido en el directorio de tu elección.
+---
 
 2. Asegúrate de tener **Python 3.x** instalado en tu máquina.
    
