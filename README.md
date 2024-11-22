@@ -180,6 +180,7 @@ MATRIZ DE ADN:
 5 | C  T  G  T  T  C
 ==============================
 ```
+- Se mostrará la matriz ingresada, con sus filas y columnas numeradas del 0 al 5.
 
 ### 2. **Opciones disponibles**:
 ```bash
@@ -245,7 +246,7 @@ MATRIZ DE ADN:
 5 | C  T  G  T  T  C
 ==============================
 ```
-
+- Se reemplazan las filas y columnas alteradas para obtener nuevamente una matriz sana.
 ---
 
 ## :warning: Consideraciones
