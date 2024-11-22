@@ -227,7 +227,7 @@ MATRIZ DE ADN:
 ==============================
 ```
 - Mutar la matriz ingresando las iniciales de las bases nitrogenadas: "A" para adenina, "T" para timina, "C" para citosina, "G" para guanina.
-- Ingresar los números de fila y columna que se desean mutar. Se deben ingresar: 0, 1, 2, 3, 4 o 5.
+- Ingresar los números de fila y columna que se desean mutar. Se debe ingresar: 0, 1, 2, 3, 4 o 5.
 - Ingresar el tipo de mutación que se desea. Se debe ingresar: "H" para horizontal, "V" para vertical o "D" para diagonal.
 
 ### 5. Sanar ADN:
