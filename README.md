@@ -38,7 +38,6 @@ Este comando descargará una copia completa del repositorio en tu máquina local
 - Ejecuta el comando de clonación.
 
 - Una vez clonado, navega al directorio donde hayas guardado el proyecto en tu máquina local.
-```
 
  ### **Descargar el Repositorio Manualmente**:
 Si no tienes Git instalado, también puedes descargar el repositorio como un archivo comprimido (ZIP) y extraerlo en tu máquina.
