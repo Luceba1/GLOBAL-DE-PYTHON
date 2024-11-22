@@ -189,8 +189,9 @@ Opciones:
 3. Sanar ADN
 4. Ingresar una nueva matriz
 5. Salir
-Seleccione una opción: 1
+Seleccione una opción: 
 ```
+- Seleccionar la opción que queramos utilizando los números: 1, 2, 3, 4 o 5.
 
 ### 3. **Detección de mutaciones**:
 ```bash
@@ -198,6 +199,14 @@ Resultado booleano: True
 Mutaciones detectadas en las siguientes posiciones:
 - Fila: 0, Columna: 2, Tipo: Horizontal
 ```
+- Mensaje hipotético en caso de que la matriz sea mutante.
+
+```bash
+Resultado booleano: False
+No se detectaron mutaciones.
+```
+- Mensaje hipotético en caso de que la matriz no sea mutante.
+ 
 ### 4. **Creación de mutantes**:
 ```bash
 Base nitrogenada (A/T/C/G): A
@@ -217,6 +226,9 @@ MATRIZ DE ADN:
 5 | C  T  G  T  T  C
 ==============================
 ```
+- Mutar la matriz ingresando las iniciales de las bases nitrogenadas: "A" para adenina, "T" para timina, "C" para citosina, "G" para guanina.
+- Ingresar los números de fila y columna que se desean mutar. Se deben ingresar: 0, 1, 2, 3, 4 o 5.
+- Ingresar el tipo de mutación que se desea. Se debe ingresar: "H" para horizontal, "V" para vertical o "D" para diagonal.
 
 ### 5. Sanar ADN:
 ```bash
