@@ -175,8 +175,8 @@ MATRIZ DE ADN:
 ```
 
 ### 2. **Opciones disponibles**:
-Opciones:
 ```bash
+Opciones:
 1. Detectar mutaciones
 2. Crear mutantes
 3. Sanar ADN
