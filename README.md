@@ -50,6 +50,7 @@ Si no tienes Git instalado, también puedes descargar el repositorio como un arc
 - Extrae el archivo comprimido en el directorio de tu elección.
 
 2. Asegúrate de tener **Python 3.x** instalado en tu máquina.
+   
 3. Ejecuta el archivo `ejecutable.py` para iniciar el programa.
 
 ---
