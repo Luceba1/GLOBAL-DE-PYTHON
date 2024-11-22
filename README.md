@@ -39,7 +39,7 @@ Este comando descargará una copia completa del repositorio en tu máquina local
 
 - Una vez clonado, navega al directorio donde hayas guardado el proyecto en tu máquina local.
 
- ### **Descargar el Repositorio Manualmente**:
+   ### **Descargar el Repositorio Manualmente**:
 Si no tienes Git instalado, también puedes descargar el repositorio como un archivo comprimido (ZIP) y extraerlo en tu máquina.
 
 - Ve a la página de tu repositorio en GitHub.
