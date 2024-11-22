@@ -4,7 +4,7 @@ Este proyecto simula la **detección de mutaciones** en una matriz de ADN y la c
 
 ---
 
-## :clipboard: **Integrantes**
+## 👥 **Integrantes**
 - Lucas Pujada
 - Lautaro Montecchiani
 - Bruno Rivera
