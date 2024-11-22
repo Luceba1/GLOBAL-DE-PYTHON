@@ -161,6 +161,13 @@ Si no tienes Git instalado, también puedes descargar el repositorio como un arc
 Ingrese una matriz de ADN (6 filas de 6 bases nitrogenadas, separadas por una coma y un espacio):
 Ejemplo: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
 Matriz: AGATCA, GATTCA, CAACAT, GAGCTA, ATTGCG, CTGTTC
+    0  1  2  3  4  5
+0 | A  G  A  T  C  A
+1 | G  A  T  T  C  A
+2 | C  A  A  C  A  T
+3 | G  A  G  C  T  A
+4 | A  T  T  G  C  G
+5 | C  T  G  T  T  C
 ```
 
 ### 2. **Opciones disponibles**:
