@@ -28,7 +28,7 @@ Este proyecto simula la **detección de mutaciones** en una matriz de ADN y la c
 Si tienes **Git** instalado en tu máquina, puedes clonar el repositorio utilizando el siguiente comando:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/Luceba1/GLOBAL-DE-PYTHON.git
 ```
 Este comando descargará una copia completa del repositorio en tu máquina local. Asegúrate de reemplazar tu-usuario y tu-repositorio con tu nombre de usuario de GitHub y el nombre de tu repositorio.
 
